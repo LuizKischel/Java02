@@ -1,0 +1,8 @@
+QUESTÃO 02: Qual a definição de generalização e especialização? Exemplifique as definições.
+
+Resposta: Generalização são denominadas as classes genéricas que 
+tem uma abrangência maior, já as classe de especialização não 
+aquelas que contem mais detalhes dos objetos que possuem 
+atributos e métodos mais específicos daquela classe. Uma classe 
+genérica seria “COMERCIO” a qual teria de especialização “ROUPAS”, 
+“SORVETE”, “INFORMÁTICA”...

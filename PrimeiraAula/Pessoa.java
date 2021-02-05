@@ -13,6 +13,20 @@ public class Pessoa {
 		private String endereco;
 		private String escolaridade;
 		
+		public Pessoa(String nome, int idade, double altura, double peso, String genero, String tipoSanguineo,
+				String raca, String corOlhos, String endereco, String escolaridade) {
+			this.nome = nome;
+			this.idade = idade;
+			this.altura = altura;
+			this.peso = peso;
+			this.genero = genero;
+			this.tipoSanguineo = tipoSanguineo;
+			this.raca = raca;
+			this.corOlhos = corOlhos;
+			this.endereco = endereco;
+			this.escolaridade = escolaridade;
+		}
+
 		public void andar() {
 			System.out.println("Andando");
 		}

@@ -1,0 +1,10 @@
+QUESTÃO 01: Explique a diferença entre objeto e classe, comente quais suas funções em um programa.
+Dê exemplos de Classes e Objetos 
+Resposta: Uma classe é a estrutura de como fazer ou executar algo 
+é a fórmula para fazer um processamento, buscar um dado já o 
+objeto é o resultado de uma classe, você executa a formula da 
+classe e no final você tem um objeto. As função da classe é
+ formar um objeto e a função do objeto é simplificar o código 
+ evitando a repetição de estruturas e tornando a programação mais 
+ dinâmica. Exemplo de classe: Construir Carro.
+		   Exemplo de objeto: Carro construído ou seja algo pronto.

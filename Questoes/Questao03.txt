@@ -1,0 +1,8 @@
+QUESTÃO 03: O que é polimorfismo e sobrecarga de métodos? Como implementar? 
+
+Resposta: Polimorfismo é quando diferentes subclasses podem 
+chamar um mesmo método da superclasse porém em cada subclasse 
+esse método tem um comportamento ou seja 2 comportamentos 
+diferentes. Sobrecarga é quando existem 2 métodos ou mais na 
+mesma classe com o mesmo nome mas que retornam resultados 
+diferentes, além de que cada uma recebe um parâmetro.
